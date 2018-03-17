@@ -1,4 +1,4 @@
-* [Raspberry Pi Setup](raspi)
+* [Raspberry Pi Setup](raspberry-pi)
 
 ### Interesting Projects
 
