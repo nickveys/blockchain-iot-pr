@@ -10,3 +10,9 @@
 ```bash
 git clone https://github.com/adafruit/Adafruit_Python_DHT.git
 ```
+
+### Hardware Setup
+
+![gpio-pinout.png](gpio-pinout.png)
+![dht11-pinout.jpg](dht11-pinout.jpg)
+![dht11-pi-connections.png](dht11-pi-connections.png)
