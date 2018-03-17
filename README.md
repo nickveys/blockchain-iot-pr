@@ -1,7 +1,12 @@
 ## IoT & Blockchain Workshop
 
-Buyamón, Puerto Rico, March 17 2018
+Buyamón, Puerto Rico, March 17 2018 ([EventBrite][event-brite])
 
-* https://engine-4.com
-* http://obsidisconsortia.org
-* https://www.eventbrite.com/e/43175658557
+* [IoT Workshop GitHub][iot-github]
+* [Engine-4][engine-4]
+* [Obsidis Consortia][obsidis-consortia]
+
+[iot-github]: /j0x0j/ethereum-iot-workshop
+[engine-4]: https://engine-4.com
+[obsidis-consortia]: http://obsidisconsortia.org
+[event-brite]: https://www.eventbrite.com/e/43175658557
